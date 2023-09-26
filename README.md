@@ -48,18 +48,18 @@ Además de mi experiencia, tengo un conjunto diverso de habilidades que incluyen
 ## Certificaciones AWS 🏆
 
 ¡Soy un orgulloso poseedor de varias certificaciones AWS! Aquí están:
+1. [![AWS Certified Cloud Practitioner](https://images.credly.com/size/110x110/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)](https://www.credly.com/badges/5a5bc1fd-bc7e-4ba9-81f6-fe3f73bb6c97/public_url)
+   - [AWS Certified Cloud Practitioner](https://www.credly.com/badges/5a5bc1fd-bc7e-4ba9-81f6-fe3f73bb6c97/public_url)
 
-1. [AWS Certified Cloud Practitioner](https://www.credly.com/badges/5a5bc1fd-bc7e-4ba9-81f6-fe3f73bb6c97/public_url)
-   ![AWS Certified Cloud Practitioner Badge](https://images.credly.com/size/110x110/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)
+2. [![AWS Certified SysOps Administrator -- Associate](https://images.credly.com/size/110x110/images/f0d3fbb9-bfa7-4017-9989-7bde8eaf42b1/image.png)](https://www.credly.com/badges/7a7ff302-af02-4a6f-814f-7c74841546d7/public_url)
+   - [AWS Certified SysOps Administrator -- Associate](https://www.credly.com/badges/7a7ff302-af02-4a6f-814f-7c74841546d7/public_url)
 
-2. [AWS Certified SysOps Administrator -- Associate](https://www.credly.com/badges/7a7ff302-af02-4a6f-814f-7c74841546d7/public_url)
-   ![AWS Certified SysOps Administrator Badge](https://images.credly.com/size/110x110/images/f0d3fbb9-bfa7-4017-9989-7bde8eaf42b1/image.png)
+3. [![AWS Certified Developer -- Associate](https://images.credly.com/size/110x110/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png)](https://www.credly.com/badges/b627747e-7bac-4fb4-9e4c-758c8828985b/public_url)
+   - [AWS Certified Developer -- Associate](https://www.credly.com/badges/b627747e-7bac-4fb4-9e4c-758c8828985b/public_url)
 
-3. [AWS Certified Developer -- Associate](https://www.credly.com/badges/b627747e-7bac-4fb4-9e4c-758c8828985b/public_url)
-   ![AWS Certified Developer Badge](https://images.credly.com/size/110x110/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png)
+4. [![AWS Certified Solution Architect -- Associate](https://images.credly.com/size/110x110/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png)](https://www.credly.com/badges/ac005055-010e-407f-a1ab-2a38d82dd614/public_url)
+   - [AWS Certified Solution Architect -- Associate](https://images.credly.com/size/110x110/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png)
 
-4. [AWS Certified Solution Architect -- Associate](https://www.credly.com/badges/ac005055-010e-407f-a1ab-2a38d82dd614/public_url)
-   ![AWS Certified Solution Architect Badge](https://images.credly.com/size/110x110/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png)
 
 ## Educación 📚
 
