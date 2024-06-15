@@ -1,94 +1,60 @@
+# ¡Hola! 👋 Soy Alejandro Cordova
 
-# ¡Hola, soy Alejandro Cordova! 👋
+¡Bienvenido a mi rincón del código en GitHub! 🚀
 
-🎓 Soy un Ingeniero en Sistemas graduado con una Maestría en Seguridad Informática y me especializo en el emocionante mundo de la nube, especialmente en AWS ☁️. Además, tengo más de 3 años de experiencia en desarrollo y una amplia gama de habilidades técnicas. 
+## 🌟 Sobre mí
+Soy un **Cloud Engineer** especializado en **AWS** con un profundo amor por la tecnología y el desarrollo de software. Tengo experiencia en una amplia gama de tecnologías y disfruto de aprender cosas nuevas constantemente. 
 
-## Sobre mí 🚀
+### 🔧 Tecnologías y Herramientas
+- **Lenguajes:** JavaScript, TypeScript, Python
+- **Bases de datos:** PostgreSQL, MySQL, SQL, PL/SQL
+- **Frameworks:** Angular, React, Svelt, NodeJS
+- **Frontend y Backend**
+- **Cloud:** AWS (5 certificaciones, en camio hacia DevOps y especialidades), próximo objetivo: Azure, GCP.
+- **Infraestructura:** Docker, Kubernetes
+- **Infraestructura como código:** Terraform
 
-Soy una persona autodidacta, analítica, amigable y siempre dispuesto a aprender cosas nuevas 📚. Me encantan los retos desafiantes que me permiten aplicar mi conocimiento y adquirir nuevas habilidades 🤓.
 
-## Experiencia en Desarrollo y Tecnología 💻
+### 📜 Certificaciones
+- ![AWS Certified Solutions Architect – Professional](https://images.credly.com/size/110x110/images/2d84e428-9078-49b6-a804-13c15383d0de/image.png) [AWS Certified Solutions Architect – Professional](https://www.credly.com/badges/975a2423-c28f-41f0-9a9c-1bbbab62a065/public_url)
+- ![AWS Certified Solutions Architect – Associate](https://images.credly.com/size/110x110/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png) [AWS Certified Solutions Architect – Associate](https://www.credly.com/badges/6b4682d6-1e69-470e-a7c6-018d579d7709/public_url)
+- ![AWS Certified Developer – Associate](https://images.credly.com/size/110x110/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png) [AWS Certified Developer – Associate](https://www.credly.com/badges/b627747e-7bac-4fb4-9e4c-758c8828985b/public_url)
+- ![AWS Certified SysOps Administrator – Associate](https://images.credly.com/size/110x110/images/f0d3fbb9-bfa7-4017-9989-7bde8eaf42b1/image.png) [AWS Certified SysOps Administrator – Associate](https://www.credly.com/badges/7a7ff302-af02-4a6f-814f-7c74841546d7/public_url)
+- ![AWS Certified Cloud Practitioner](https://images.credly.com/size/110x110/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png) [AWS Certified Cloud Practitioner](https://www.credly.com/badges/fe7d875b-ea7b-4960-8f98-e9f8ae05143e/public_url)
 
-### Más de 3 años de experiencia en desarrollo 🌟
 
-He estado trabajando en desarrollo durante más de tres años, lo que me ha permitido adquirir un profundo conocimiento en lenguajes como JavaScript, TypeScript y .NET. Mi experiencia abarca:
+### 🏊‍♂️ Pasatiempos y Pasiones
+- Nadar
+- Jugar en la computadora
+- Leer a Stephen King, Carl Sagan, George R. R. Martin y muchos mas
+- Aprender cosas nuevas
 
-- Desarrollo Full Stack con tecnologías como React, Angular y NodeJS.
-- Uso de bases de datos, incluyendo MySQL, PostgreSQL y MongoDB.
-- Implementación de servidores y servicios en la nube.
+## 📈 Mis Objetivos
+- Obtener la certificación de DevOps en AWS
+- Conseguir especialidades en Seguridad y Big Data en AWS
+- Aprender y certificarme en Azure, GCP y G Suite
 
-### Sistemas Operativos y Administración de Servidores 🌐
+## 📬 Contacto
+¡No dudes en contactarme si quieres colaborar en algún proyecto o simplemente charlar sobre tecnología!
 
-También tengo experiencia en administración de servidores y sistemas operativos Linux 🐧. He trabajado en:
+- **LinkedIn:** [Tu LinkedIn](https://www.linkedin.com/in/acordovam/)
+- **Correo:** [Tu Email](mailto:alejandrocordova198@gmail.com)
 
-- Administración, mantenimiento e implementación de servidores.
-- Soporte y resolución de problemas relacionados con sistemas operativos.
 
-## Experiencia en la Nube AWS ☁️
+## 🚀 Let's Code!
+Estoy siempre abierto a nuevas oportunidades y colaboraciones. ¡Hagamos algo increíble juntos!
 
-### AWS Engineer 🌐
-*¡Desde 2022!*
+---
 
-Mi pasión y experiencia se centran en AWS. Como Ingeniero de AWS, he diseñado, implementado y administrado soluciones en la nube de AWS. Mi enfoque se centra en la optimización y la seguridad 🔐. 
+<p align="center">
+  <img src="https://camo.githubusercontent.com/01c83210f7feb975ea3b9a852808beb6689425add471f76f942c15875626af5d/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966" alt="Coding gif" width="500"/>
+</p>
 
-Mis habilidades incluyen:
+---
 
-- Automatización de CI/CD en AWS.
-- Orquestación de contenedores con Docker y Kubernetes.
-- Gestión de servicios clave de AWS, desde EC2 hasta RDS y DynamoDB.
-- Garantizar la seguridad de las soluciones en la nube.
-
-AWS es mi terreno de juego, y me enorgullece ser parte de la comunidad cloud ☁️.
-
-## Conocimientos y Habilidades 💼
-
-Además de mi experiencia, tengo un conjunto diverso de habilidades que incluyen:
-
-- **Seguridad Informática**: Mi maestría en Seguridad Informática me proporcionó un conocimiento profundo en la protección de sistemas y datos críticos. La seguridad es mi prioridad.
-
-## Certificaciones AWS 🏆
-
-¡Soy un orgulloso poseedor de varias certificaciones AWS!:
-
-- [AWS Certified Cloud Practitioner](https://www.credly.com/badges/5a5bc1fd-bc7e-4ba9-81f6-fe3f73bb6c97/public_url)
-[![AWS Certified Cloud Practitioner](https://images.credly.com/size/110x110/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)](https://www.credly.com/badges/5a5bc1fd-bc7e-4ba9-81f6-fe3f73bb6c97/public_url)
-
-- [AWS Certified SysOps Administrator -- Associate](https://www.credly.com/badges/7a7ff302-af02-4a6f-814f-7c74841546d7/public_url)
-[![AWS Certified SysOps Administrator -- Associate](https://images.credly.com/size/110x110/images/f0d3fbb9-bfa7-4017-9989-7bde8eaf42b1/image.png)](https://www.credly.com/badges/7a7ff302-af02-4a6f-814f-7c74841546d7/public_url)
-
-- [AWS Certified Developer -- Associate](https://www.credly.com/badges/b627747e-7bac-4fb4-9e4c-758c8828985b/public_url)
- [![AWS Certified Developer -- Associate](https://images.credly.com/size/110x110/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png)](https://www.credly.com/badges/b627747e-7bac-4fb4-9e4c-758c8828985b/public_url)
-
-- [AWS Certified Solution Architect -- Associate](https://images.credly.com/size/110x110/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png)
-[![AWS Certified Solution Architect -- Associate](https://images.credly.com/size/110x110/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png)](https://www.credly.com/badges/ac005055-010e-407f-a1ab-2a38d82dd614/public_url)
-
-### ¡Prepárate para más certificados AWS! 🚀
-
-¡El futuro está lleno de nubes por conquistar! ☁️💡
-
-## Educación 📚
-
-- **Maestría en Seguridad Informática**,
-  *Enero 2021 — Diciembre 2022* - ¡Graduado con honores! 🎓
-
-- **Ingeniería en Sistemas**,
-  *Febrero 2016 — Diciembre 2020* - ¡Graduado con distinción! 🎉
-
-## Cursos y Certificaciones 🏆
-
-¡Siempre estoy en busca de aprender y mejorar mis habilidades! Algunas de mis certificaciones incluyen:
-
-- DevOps - Platzi 🌟
-- Git y GitHub, Udemy 🌟
-- MEAN y MEARN Stack, Udemy 🌟
-- Tester de software, Capacítate para el Empleo 🌟
-- Scrum Fundamentals, Big Agile 🌟
-- Profesional en Angular, Udemy 🌟
-
-... ¡Y muchos más!
-
-### ¡Y muchas más certificaciones AWS en camino! 🚀
-
-Mi compromiso con la excelencia en la nube no tiene fin. Estoy trabajando activamente en adquirir nuevas certificaciones de AWS para seguir mejorando mis habilidades y conocimientos. ¡Mantente atento a más logros en el mundo de AWS que están en el horizonte! El viaje hacia la maestría en la nube nunca se detiene. 💡☁️
-
-¡No dudes en contactarme! Estoy emocionado por las oportunidades que el futuro tiene para ofrecer. Conectemos 🤝 y construyamos cosas asombrosas juntos. 💼
+<p align="center">
+  <img src="https://img.shields.io/badge/AWS-Expert-orange?style=for-the-badge&logo=amazon-aws" alt="AWS Badge"/>
+  <img src="https://img.shields.io/badge/JavaScript-Expert-yellow?style=for-the-badge&logo=javascript" alt="JavaScript Badge"/>
+  <img src="https://img.shields.io/badge/TypeScript-Expert-blue?style=for-the-badge&logo=typescript" alt="TypeScript Badge"/>
+  <img src="https://img.shields.io/badge/Python-Expert-blue?style=for-the-badge&logo=python" alt="Python Badge"/>
+</p>
