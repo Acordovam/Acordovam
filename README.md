@@ -37,8 +37,8 @@ Soy un **Cloud Engineer** especializado en **AWS** con un profundo amor por la t
 ## 📬 Contacto
 ¡No dudes en contactarme si quieres colaborar en algún proyecto o simplemente charlar sobre tecnología!
 
-- **LinkedIn:** [Tu LinkedIn](https://www.linkedin.com/in/acordovam/)
-- **Correo:** [Tu Email](mailto:alejandrocordova198@gmail.com)
+- **LinkedIn:** [Mi LinkedIn](https://www.linkedin.com/in/acordovam/)
+- **Correo:** [Mi Email](mailto:alejandrocordova198@gmail.com)
 
 
 ## 🚀 Let's Code!
