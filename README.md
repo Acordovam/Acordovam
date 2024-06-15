@@ -3,30 +3,28 @@
 ¡Bienvenido a mi rincón del código en GitHub! 🚀
 
 ## 🌟 Sobre mí
-Soy un **Cloud Engineer** especializado en **AWS** con un profundo amor por la tecnología y el desarrollo de software. Tengo experiencia en una amplia gama de tecnologías y disfruto de aprender cosas nuevas constantemente. 
+Soy un **Cloud Engineer** especializado en **AWS** con un profundo amor por la tecnología y el desarrollo de software. Tengo experiencia en una amplia gama de tecnologías y disfruto de aprender cosas nuevas constantemente.
 
 ### 🔧 Tecnologías y Herramientas
 - **Lenguajes:** JavaScript, TypeScript, Python
 - **Bases de datos:** PostgreSQL, MySQL, SQL, PL/SQL
 - **Frameworks:** Angular, React, Svelt, NodeJS
 - **Frontend y Backend**
-- **Cloud:** AWS (5 certificaciones, en camio hacia DevOps y especialidades), próximo objetivo: Azure, GCP.
+- **Cloud:** AWS (5 certificaciones, en camino hacia DevOps y especialidades), próximo objetivo: Azure, GCP.
 - **Infraestructura:** Docker, Kubernetes
 - **Infraestructura como código:** Terraform
 
-
 ### 📜 Certificaciones
-- ![AWS Certified Solutions Architect – Professional](https://images.credly.com/size/110x110/images/2d84e428-9078-49b6-a804-13c15383d0de/image.png) [AWS Certified Solutions Architect – Professional](https://www.credly.com/badges/975a2423-c28f-41f0-9a9c-1bbbab62a065/public_url)
-- ![AWS Certified Solutions Architect – Associate](https://images.credly.com/size/110x110/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png) [AWS Certified Solutions Architect – Associate](https://www.credly.com/badges/6b4682d6-1e69-470e-a7c6-018d579d7709/public_url)
-- ![AWS Certified Developer – Associate](https://images.credly.com/size/110x110/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png) [AWS Certified Developer – Associate](https://www.credly.com/badges/b627747e-7bac-4fb4-9e4c-758c8828985b/public_url)
-- ![AWS Certified SysOps Administrator – Associate](https://images.credly.com/size/110x110/images/f0d3fbb9-bfa7-4017-9989-7bde8eaf42b1/image.png) [AWS Certified SysOps Administrator – Associate](https://www.credly.com/badges/7a7ff302-af02-4a6f-814f-7c74841546d7/public_url)
-- ![AWS Certified Cloud Practitioner](https://images.credly.com/size/110x110/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png) [AWS Certified Cloud Practitioner](https://www.credly.com/badges/fe7d875b-ea7b-4960-8f98-e9f8ae05143e/public_url)
-
+- **[AWS Certified Solutions Architect – Professional](https://www.credly.com/badges/975a2423-c28f-41f0-9a9c-1bbbab62a065/public_url)**
+- **[AWS Certified Solutions Architect – Associate](https://www.credly.com/badges/6b4682d6-1e69-470e-a7c6-018d579d7709/public_url)**
+- **[AWS Certified Developer – Associate](https://www.credly.com/badges/b627747e-7bac-4fb4-9e4c-758c8828985b/public_url)**
+- **[AWS Certified SysOps Administrator – Associate](https://www.credly.com/badges/7a7ff302-af02-4a6f-814f-7c74841546d7/public_url)**
+- **[AWS Certified Cloud Practitioner](https://www.credly.com/badges/fe7d875b-ea7b-4960-8f98-e9f8ae05143e/public_url)**
 
 ### 🏊‍♂️ Pasatiempos y Pasiones
 - Nadar
 - Jugar en la computadora
-- Leer a Stephen King, Carl Sagan, George R. R. Martin y muchos mas
+- Leer a Stephen King, Carl Sagan, George R. R. Martin y muchos más
 - Aprender cosas nuevas
 
 ## 📈 Mis Objetivos
@@ -39,7 +37,6 @@ Soy un **Cloud Engineer** especializado en **AWS** con un profundo amor por la t
 
 - **LinkedIn:** [Mi LinkedIn](https://www.linkedin.com/in/acordovam/)
 - **Correo:** [Mi Email](mailto:alejandrocordova198@gmail.com)
-
 
 ## 🚀 Let's Code!
 Estoy siempre abierto a nuevas oportunidades y colaboraciones. ¡Hagamos algo increíble juntos!
