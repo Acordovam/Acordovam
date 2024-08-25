@@ -10,7 +10,7 @@ Soy un **Cloud Engineer** especializado en **AWS** con un profundo amor por la t
 - **Bases de datos:** PostgreSQL, MySQL, SQL, PL/SQL
 - **Frameworks:** Angular, React, Svelt, NodeJS
 - **Frontend y Backend**
-- **Cloud:** AWS (5 certificaciones, en camino hacia DevOps y especialidades), próximo objetivo: Azure, GCP.
+- **Cloud:** AWS (6 certificaciones, en camino hacia DevOps y especialidades), próximo objetivo: Azure, GCP.
 - **Infraestructura:** Docker, Kubernetes
 - **Infraestructura como código:** Terraform
 
@@ -20,6 +20,7 @@ Soy un **Cloud Engineer** especializado en **AWS** con un profundo amor por la t
 - **[AWS Certified Developer – Associate](https://www.credly.com/badges/b627747e-7bac-4fb4-9e4c-758c8828985b/public_url)**
 - **[AWS Certified SysOps Administrator – Associate](https://www.credly.com/badges/7a7ff302-af02-4a6f-814f-7c74841546d7/public_url)**
 - **[AWS Certified Cloud Practitioner](https://www.credly.com/badges/fe7d875b-ea7b-4960-8f98-e9f8ae05143e/public_url)**
+- **[AWS Certified Security – Specialty](https://www.credly.com/badges/824be743-0261-4a8d-8455-86855deb36a1/public_url)**
 
 ### 🏊‍♂️ Pasatiempos y Pasiones
 - Nadar
